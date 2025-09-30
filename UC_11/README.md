@@ -8,6 +8,7 @@
 
 ### Lista do dia 30/09
 
+- [1073 - Pedágio](https://judge.beecrowd.com/pt/problems/view/2377)
 - [1073 - Quadrado de Pares](https://judge.beecrowd.com/pt/problems/view/1073)
 - [1052 - Mês](https://judge.beecrowd.com/pt/problems/view/1052)
 - [1038 - Lanche](https://judge.beecrowd.com/pt/problems/view/1038)
