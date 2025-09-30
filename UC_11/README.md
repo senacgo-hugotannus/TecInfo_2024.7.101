@@ -6,7 +6,7 @@
 
 ## Exercícios BeeCrowd
 
-### Iniciantes (30/09)
+### Lista do dia 30/09
 
 - [1073 - Quadrado de Pares](https://judge.beecrowd.com/pt/problems/view/1073)
 - [1052 - Mês](https://judge.beecrowd.com/pt/problems/view/1052)
