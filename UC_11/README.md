@@ -24,8 +24,6 @@
 - [1050 - DDD](https://judge.beecrowd.com/pt/problems/view/1050)
 - [1051 - Imposto de Renda](https://judge.beecrowd.com/pt/problems/view/1051)
 
----
-
 ###  Lista do dia 01/10 - Exercícios Rápidos
 
 - [2879 - Desvendando Monty Hall](https://judge.beecrowd.com/pt/problems/view/2879)
@@ -61,9 +59,5 @@
 - [1930 - Tomadas](https://judge.beecrowd.com/pt/problems/view/1930)
 - [2388 - Tacógrafo](https://judge.beecrowd.com/pt/problems/view/2388)
 - [2615 - Expandindo o Negócio](https://judge.beecrowd.com/pt/problems/view/2615)
-- [1049 - Animal](https://judge.beecrowd.com/pt/problems/view/1049)
-- [1040 - Média 3](https://judge.beecrowd.com/pt/problems/view/1040)
-- [1051 - Imposto de Renda](https://judge.beecrowd.com/pt/problems/view/1051)
-- [3140 - Copiando e Colando Código](https://judge.beecrowd.com/pt/problems/view/3140)
 - [1759 - Ho Ho Ho](https://judge.beecrowd.com/pt/problems/view/1759)
 - [1038 - Lanche](https://judge.beecrowd.com/pt/problems/view/1038)
