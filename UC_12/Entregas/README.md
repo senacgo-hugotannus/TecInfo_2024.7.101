@@ -1,11 +1,5 @@
 # Instruções para Entrega de Exercícios da UC 12
 
-> [!IMPORTANT]
-> Antes de executar qualquer um dos comandos abaixo, certifique-se de estar na pasta corretamente associada ao repositório.
-
-> [!IMPORTANT]
-> Certifique-se de deixar a pasta organizada, de forma a facilitar a identificação correta das entregas.
-
 > [!TIP]
 > Para _clonar_ (_"baixar"_) o projeto, basta abrir o terminal na pasta "Projetos" e executar o seguinte comando:
 >
@@ -13,6 +7,14 @@
 
 > [!TIP]
 > Lembre-se de que você sempre poderá criar o seu próprio arquivo `README.md` em sua pasta, para deixar as suas entregas ainda mais organizadas, além de ser o local perfeito para registrar quaisquer esclarecimentos que se fizerem necessários.
+
+> [!IMPORTANT]
+> Antes de executar qualquer um dos comandos abaixo, certifique-se de estar na pasta corretamente associada ao repositório.
+
+> [!IMPORTANT]
+> Certifique-se de deixar a pasta organizada, de forma a facilitar a identificação correta das entregas.
+
+## Passo-a-passo
 
 1. Execute o comando `git pull`
 1. Crie uma pasta com o seu nome ou a identificação do seu grupo dentro da pasta adequada.
