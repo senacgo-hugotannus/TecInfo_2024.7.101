@@ -1,10 +1,7 @@
-import yaml
-
-with open("hardware.yaml", "r", encoding="utf-8") as f:
-    dados = yaml.safe_load(f)
-
-print("Conteúdo do YAML:", dados)
-
-print("Modelo da GPU:", dados["hardware"]["gpu"]["modelo"])
-
-print("Memória RAM (GB):", dados["hardware"]["memoria_ram"]["capacidade_total_gb"])
+A = int(input("qual o ano do mundial do palmeiras  "))
+if A == 51 :
+    print ("51 é cachaça")
+elif A == 1951 :
+    print ("51 é cachaça")
+else:
+    print ("e por acaso o palmeiras tem mundial")
