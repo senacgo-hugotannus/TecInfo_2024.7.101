@@ -1,0 +1,62 @@
+placa_mae_h61 = {
+    "modelo": "H61",
+    "socket": "LGA 1155",
+    "compatibilidade_processadores": "Intel 2ª e 3ª Geração (Sandy Bridge e Ivy Bridge)",
+    "memoria": {
+        "tipo": "DDR3",
+        "dual_channel": True,
+        "capacidade_maxima": "16GB",
+        "slots": 2
+    },
+    "armazenamento": {
+        "suporte_nvme": "Via adaptador M.2 PCIe",
+        "interface_sata": "SATA II (3 Gb/s)"
+    },
+    "portas_usb": ["USB 2.0", "USB 3.0"],
+    "expansao_pcie": {
+        "x16": 1,
+        "x1": 1
+    },
+    "video_integrado": "Suporte a gráficos integrados dos processadores Intel",
+    "rede": "LAN Gigabit Ethernet",
+    "audio": "Onboard 5.1 ou 7.1 canais (dependendo do fabricante)",
+    "formato": ["ATX", "Micro-ATX"],
+    "marcas_comuns": ["ASUS", "Gigabyte", "MSI", "ASRock"]
+}
+
+memoria_ram = {
+    "marca": "CORSAIR",
+    "linha": "Vengeance DDR5",
+    "capacidade_total": "32GB",
+    "configuracao": "2x16GB",
+    "tipo": "DDR5",
+    "velocidade": "6000MHz",
+    "latencia_cas": "CL30",
+    "compatibilidade": ["AMD EXPO", "Intel XMP"],
+    "tecnologia_extra": "Compatível com CORSAIR iCUE",
+    "cor": "Cinza",
+    "formato": "DIMM Desktop",
+    "uso_ideal": "PCs gamers e workstations de alto desempenho",
+    "codigo_produto": "CMK32GX5M2B6000Z30"
+}
+
+placa_de_video = {
+    "marca": "NVIDIA",
+    "modelo": "GeForce GT 730",
+    "memoria": {
+        "capacidade": "4GB",
+        "tipo": "DDR3",
+        "interface": "64-bit"
+    },
+    "saidas_video": ["HDMI", "VGA", "DVI"],
+    "resolucao_maxima": {
+        "hdmi_dvi": "2560x1600",
+        "vga": "1920x1080"
+    },
+    "tecnologias_suportadas": ["DirectX 12", "OpenGL 4.4"],
+    "consumo_energia": "TDP ~38W, sem conector extra",
+    "refrigeracao": ["Cooler ativo", "Cooler passivo (dependendo do fabricante)"],
+    "uso_ideal": ["PCs básicos", "Multimídia", "Jogos leves", "Jogos retro"],
+    "compatibilidade": "PCI Express 2.0/3.0",
+    "fabricantes_parceiros": ["ASUS", "MSI", "Gigabyte", "EVGA", "Zotac"]
+}
