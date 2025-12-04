@@ -1,0 +1,26 @@
+{
+  "hardware_pc": {
+    "processador": "AMD Ryzen 7 5800X",
+    "placa_mae": "ASUS B550M Gaming",
+    "memoria_ram_gb": 16,
+    "unidade_ram": "GB DDR4 – 3200 MHz",
+    "armazenamento_principal": "SSD NVMe 1 TB",
+    "armazenamento_secundario": "HD 1 TB 7200 RPM",
+    "placa_video": "NVIDIA GeForce RTX 3060",
+    "fonte_alimentacao_watts": 650,
+    "certificacao_fonte": "80 Plus Bronze",
+    "gabinete": "CoolerMaster MasterBox MB520",
+    "sistema_operacional": "Windows 11 Pro",
+    "monitor": {
+      "tamanho_polegadas": 27,
+      "resolucao_frequencia": "Full HD – 144 Hz"
+    },
+    "inclui_perifericos": true,
+    "perifericos": [
+      "Teclado mecânico",
+      "Mouse gamer",
+      "Headset"
+    ],
+    "observacoes": "Ideal para jogos e edição de vídeo"
+  }
+}
