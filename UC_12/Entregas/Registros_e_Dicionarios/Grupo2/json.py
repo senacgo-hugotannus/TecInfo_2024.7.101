@@ -12,8 +12,7 @@ comp = {
         "Voltagem":"bivolt",
         "Potência em watts":"65 watts",
     },
-
-     "placa_de_video":{
+    "placa_de_video":{
         "marca": "MSI",
         "série": "36NOL7MD1VOC",
         "Tipo":"GDDR6",
