@@ -29,14 +29,11 @@
         "ATX",
         "Micro-ATX"
       ],
-      "marcas_comuns": [
-        "ASUS",
-        "Gigabyte",
-        "MSI",
-        "ASRock"
+      "marcas": [
+        "ASUS"
       ]
     },
-    "Memoria": {
+    "memoria": {
       "marca": "CORSAIR",
       "linha": "Vengeance DDR5",
       "capacidade_total": "32GB",
@@ -54,7 +51,7 @@
       "uso_ideal": "PCs gamers e workstations de alto desempenho",
       "codigo_produto": "CMK32GX5M2B6000Z30"
     },
-    "Placa_de_Video": {
+    "placa_de_Video": {
       "marca": "NVIDIA",
       "modelo": "GeForce GT 730",
       "memoria": {
