@@ -40,17 +40,17 @@ pc = {
         "Compatibilidade": "Suporta GPUs de alto consumo como RTX 5090 e CPUs topo de linha"
    },
    "PlacaMae": {
-    "Fabricante": "ASUS",
-    "Modelo": "ROG Crosshair X870E Extreme",
-    "Chipset": "AMD X870E",
-    "Soquete": "AM5",
-    "Formato": "E-ATX",
-    "Memória": "DDR5 até 256GB",
-    "Slots M.2": "5x PCIe 5.0 M.2",
-    "Expansão PCIe": "PCIe 5.0 x16, suporte multi-GPU",
-    "Conectividade": "Wi-Fi 7, Bluetooth 5.4, LAN 10GbE",
-    "Recursos": "Suporte a overclock avançado, AI Cooling, BIOS Flashback",
-    "Compatibilidade": "Suporta Ryzen 9 9950X3D, RTX 5090 e memórias DDR5 de alta frequência"
+        "Fabricante": "ASUS",
+        "Modelo": "ROG Crosshair X870E Extreme",
+        "Chipset": "AMD X870E",
+        "Soquete": "AM5",
+        "Formato": "E-ATX",
+        "Memória": "DDR5 até 256GB",
+        "Slots M.2": "5x PCIe 5.0 M.2",
+        "Expansão PCIe": "PCIe 5.0 x16, suporte multi-GPU",
+        "Conectividade": "Wi-Fi 7, Bluetooth 5.4, LAN 10GbE",
+        "Recursos": "Suporte a overclock avançado, AI Cooling, BIOS Flashback",
+        "Compatibilidade": "Suporta Ryzen 9 9950X3D, RTX 5090 e memórias DDR5 de alta frequência"
 }       
 }
 
