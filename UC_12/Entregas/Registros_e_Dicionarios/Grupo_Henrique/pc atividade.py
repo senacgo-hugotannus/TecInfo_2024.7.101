@@ -5,7 +5,7 @@ pc = {
         "Modelo": "AMD Ryzen 9 9950X3D",
         "Nucleos": "16",
         "Threads": "32",
-        "Frequência_maxima": "5.7 GHz",
+        "Frequencia_maxima": "5.7 GHz",
         "Cache": "144 MB",
         "Tecnologia_de_fabricação": "4 nm",
         "TDP": "170 Watts",
