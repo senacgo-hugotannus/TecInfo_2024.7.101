@@ -7,7 +7,7 @@ pc = {
         "Threads": "32",
         "Frequencia_maxima": "5.7 GHz",
         "Cache": "144 MB",
-        "Tecnologia_de_fabricação": "4 nm",
+        "Tecnologia_de_fabricacao": "4 nm",
         "TDP": "170 Watts",
         "Compatibilidade": "Soquete AM5, suporta memória DDR5"
     },
