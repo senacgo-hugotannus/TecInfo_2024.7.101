@@ -15,20 +15,21 @@ Baixe o gerenciador gráfico para o SQLite:
 
 #### **2. Baixar a base Chinook**
 
-> [!note]
-> A base de dados `chinook.db` já está disponivel na pasta `SQLite`.
->
-> Para acessar a base por meio do seu repositório, abra o terminal, navegue até a pasta do repositório `TecInfo_2024.7.101`, e digite a seguinte sequência de comandos:
->
-> ```bash
-> git checkout main
-> git pull
-> ```
->
-> Desta forma, quaisquer mudanças realizadas na base de dados de exemplo poderá ser facilmente revertida ao final da realização dos testes.
+A base de dados `chinook.db` já está disponivel na pasta `SQLite`.
 
-*   Acesse: <https://www.sqlitetutorial.net/sqlite-sample-database/>
-*   Baixe o arquivo **Chinook.db** (já pronto para uso)
+Portanto, para acessar a base por meio deste repositório, basta abrir o terminal, navegar até a pasta do repositório `TecInfo_2024.7.101`, e digitar a seguinte sequência de comandos:
+
+```bash
+git checkout main
+git pull
+```
+
+Desta forma, quaisquer mudanças realizadas na base de dados de exemplo poderá ser facilmente revertida ao final da realização dos testes.
+
+> [!note]
+> A base de dados de testes pode ser encontrada também no site oficial do SQLite:
+> *   Acesse: <https://www.sqlitetutorial.net/sqlite-sample-database/>
+> *   Baixe o arquivo **Chinook.db** (já pronto para uso)
 
 #### **3. Abrir a base**
 
