@@ -1,7 +1,8 @@
 {
     "processador": {
         "marca": "Amd",
-        "modelo": "ryzen 5"},
+        "modelo": "ryzen 5"
+    },
     "placa de video": {
         "marca": "galax",
         "modelo da placa de video": "nvidia Geforce Rtx 5060 ",
@@ -24,12 +25,12 @@
         "cor": "Azul",
         "Tamanho do HD": "2TB"
     },
-        "monitor": {
-            "marca": "Dell",
-            "tamanho_tela": "32''",
-            "resolucao":"1920x1080 (Full HD)",
-            "voltagem": "240"
-        },
+    "monitor": {
+        "marca": "Dell",
+        "tamanho_tela": "32''",
+        "resolucao": "1920x1080 (Full HD)",
+        "voltagem": "240"
+    },
     "Teclado": {
         "marca": "Logitech G",
         "cor": "preto",
@@ -44,6 +45,5 @@
     "Headset": {
         "fabricante": "Logitech",
         "tecnologia de conectividade": "Sem fio"
-    } 
-}  
-
+    }
+}
